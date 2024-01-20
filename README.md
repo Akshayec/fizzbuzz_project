@@ -10,6 +10,7 @@ Ensure you have Python and Django installed. Clone the repository, install depen
 
 
 git clone https://github.com/Akshayec/fizzbuzz_project.git
+cd FizzBuzz
 cd fizzbuzz_project
 pip install -r requirements.txt
 python manage.py runserver
